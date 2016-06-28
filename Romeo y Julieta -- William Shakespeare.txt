@@ -2061,18 +2061,6 @@ MONTESCO.- Y aún te daré más. Prometo hacer una estatua de oro de la hermosa
 Julieta, y tal que asombre a la ciudad de Sevilla. 
 CAPULETO.- Y a su lado haré yo otra igual para Romeo. 
 PRÍNCIPE.- ¡Tardía amistad y reconciliación, que alumbra un sol bien triste! 
-<<<<<<< HEAD
 Seguidme: aún hay que hacer más: premiar a unos y castigar a otros. Triste historia 
-<<<<<<< HEAD
-es la de Romeo y Julieta.                                         
+es la de Romeo y Julieta, pero no tanto como la der Betis                                         
 Romeo y Julieta.		     Miguel de Cervantes
-=======
-es la de Julieta y Romeo. 
-=======
-Seguidme: aún hay que hacer más: castigar a unos y premiar a otros. Triste historia 
-es la de Julieta y Romeo, por eso me quedo con el Quijote de Cervantes.                                         
-Romeo y Julieta.		     William Shakespeare
->>>>>>> branch 'master' of https://github.com/mateosg/curso-git-mateosg.git
->>>>>>> branch 'master' of https://github.com/mateosg/curso-git-mateosg.git
-
-   
