@@ -2064,3 +2064,19 @@ PRÍNCIPE.- ¡Tardía amistad y reconciliación, que alumbra un sol bien triste!
 Seguidme: aún hay que hacer más: premiar a unos y castigar a otros. Triste historia 
 es la de Romeo y Julieta, pero no tanto como la der Betis                                         
 Romeo y Julieta.		     Miguel de Cervantes
+<<<<<<< HEAD
+=======
+=======
+es la de Julieta y Romeo. 
+=======
+Seguidme: aún hay que hacer más: castigar a unos y premiar a otros. Triste historia 
+es la de Julieta y Romeo, por eso me quedo con el Quijote de Cervantes.                                         
+Romeo y Julieta.		     William Shakespeare
+>>>>>>> branch 'master' of https://github.com/mateosg/curso-git-mateosg.git
+>>>>>>> branch 'master' of https://github.com/mateosg/curso-git-mateosg.git
+
+JORGE DANDO POR CULO
+
+
+   
+>>>>>>> branch 'master' of https://github.com/mateosg/curso-git-mateosg.git
